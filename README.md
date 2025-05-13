@@ -47,7 +47,7 @@ npm run dev
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open https://anand-computer.vercel.app in your browser.
 
 ## Email Configuration
 
