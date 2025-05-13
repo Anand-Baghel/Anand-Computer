@@ -117,3 +117,7 @@ git push -u origin master
 6. Click **"Deploy"**
 
 If you encounter any issues during deployment, please refer to the [Vercel documentation](https://vercel.com/docs) for troubleshooting.
+![image](https://github.com/user-attachments/assets/f1163923-98ac-433c-878d-f221a9f4543e)
+![image](https://github.com/user-attachments/assets/5e7ad0a8-8d2e-461b-b66d-213b52d1c743)
+
+
