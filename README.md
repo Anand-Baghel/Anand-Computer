@@ -1,6 +1,6 @@
-# MPOnline Web Portal
+# Anand-Computer Web Portal
 
-A modern web portal for government services in Madhya Pradesh, built with Next.js and TypeScript.
+A modern web portal Computer services and mponline , built with Next.js and TypeScript.
 
 ## Features
 
@@ -21,7 +21,7 @@ A modern web portal for government services in Madhya Pradesh, built with Next.j
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd mponline-web
+cd Anand-Computer
 ```
 
 2. Install dependencies:
@@ -100,3 +100,20 @@ src/
 ## License
 
 This project is licensed under the MIT License. 
+
+## Deployment
+
+To deploy this project on Vercel, follow these steps:
+
+1. Push your code to the remote repository:
+```bash
+git push -u origin master
+```
+
+2. Go to [Vercel Dashboard](https://vercel.com/dashboard)
+3. Click **"Add New Project"**
+4. Select your `Anand-Computer` repository from the list
+5. Follow the prompts (Vercel will auto-detect Next.js)
+6. Click **"Deploy"**
+
+If you encounter any issues during deployment, please refer to the [Vercel documentation](https://vercel.com/docs) for troubleshooting.
