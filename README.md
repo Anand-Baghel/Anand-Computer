@@ -1,7 +1,7 @@
-# MPOnline & Computer Services Portal
+# Computer Services & MPOnline Portal
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-brightgreen)](https://anand-computer.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-MPOnline%20Portal-green)](https://github.com/Anand-Baghel/Anand-Computer)
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Computerservice%20Portal-green)](https://github.com/Anand-Baghel/Anand-Computer)
 [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.1.0-blue)](https://nextjs.org/)
@@ -10,7 +10,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.1-blue)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-blue)](https://vercel.com)
 
-Welcome to the "MPOnline & Computer Services Portal"! This modern web portal provides government and digital services in Madhya Pradesh, built with Next.js and TypeScript. Experience seamless access to various government services and computer solutions.
+Welcome to the "Computer Services & MPOnline Portal"! This modern web portal provides government and digital services in Madhya Pradesh, built with Next.js and TypeScript. Experience seamless access to various government services and computer solutions.
 
 ## About This Project
 
@@ -30,7 +30,7 @@ The portal uses modern web technologies to provide a seamless user experience. I
 
 ## Preview of Project
 
-![MPOnline Portal Preview](public/logo.png)
+![Computer Services & MPOnline Portal Preview](public/logo.png)
 
 ## Explore the Project
 
@@ -106,10 +106,10 @@ To run this project locally, follow these steps:
 
 ## Discover Our Services
 
-Explore the MPOnline Portal and discover a wide range of government and digital services. Visit the [Live Demo](https://anand-computer.vercel.app) and experience the convenience of digital services.
+Explore theComputer Services & MPOnline Portal and discover a wide range of government and digital services. Visit the [Live Demo](https://anand-computer.vercel.app) and experience the convenience of digital services.
 
 ## Contribute
 
 If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/Anand-Baghel/Anand-Computer).
 
-Thank you for exploring the MPOnline & Computer Services Portal! We hope this platform makes accessing government services easier for you. 🌟
+Thank you for exploring theComputer Services & MPOnline  Portal! We hope this platform makes accessing government services easier for you. 🌟
